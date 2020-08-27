@@ -7,7 +7,7 @@ include_in_header: true
 
 
 **Last updated**  
-April 10, 2020
+Sep. 01, 2020
 
 # Terms of Services
 This is an agreement between you and Better Connect, Inc. for virtual private network communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. You agree not to violate any laws of any jurisdiction you are originating from, or terminating into.
