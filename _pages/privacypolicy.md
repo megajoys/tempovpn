@@ -5,147 +5,107 @@ include_in_header: true
 ---
 
 **Last updated**  
-April 10, 2020
+Jan 1st, 2020
 
 # Privacy Policy
-This Privacy Policy describes how we process and handle data provided to VPN in connection with your use of our products, services, apps, and websites that link to this policy (we refer to these collectively as our “services”). Information security and privacy are at the heart of our values and promotes as a company. As such, we think it’s important to be transparent about how we handle your information. That level of transparency also makes for a lengthy document, but we’ve tried to make it more readable by organizing it into a logical structure and by using plain language.
-
-### Key Privacy Points of VPN
-* Anonymity. When you use a VPN connection, we do not store any information that identifies what you browse, view, or do online via that VPN connection. This also means that we do not have any data to share with law enforcement and government agencies who make requests for information about what you were doing through a VPN connection. The exception is when you choose to communicate with us (such as via chat or email) over a VPN connection and have chosen to identify yourself to us.
-* Encryption. All data you send via the VPN connections we facilitate is encrypted. VPN does not inspect or log that data.
-* Metadata Logs. VPN logs metadata about connections, such as session durations and bandwidth used, in order to provide and improve our services. However, we do not log any data sent over those connections.
-
-This policy uses the term “personal data” to refer to information that is related to an identified or identifiable natural person and is protected as personal data under applicable data protection law.
+The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
 
 <br>
 
-## 1. What information do we collect about you?
-This section describes the various types of information we collect from and about you. This information is not collected in all situations, but only in specific situations. For example, our VPN products only collect a limited amount of information. To understand the context in which collection occurs, see Section 2 (How do we use your information?). More information about some of the mechanisms we use to collect this information, such as cookies, is available in Section 4 (Tracking Technologies & Cookies).
-
-### 1.1. Information you provide to us
-* Billing and payment information. In order to purchase a service, you may need to provide to us with details such as billing name, billing contact details (street addresses, email addresses), and payment instrument details.
-* Identity verification information. Some services require you to verify your identity as part of creating an account to access them. We may collect information such as email addresses or phone numbers for this purpose.
-* Communications and submissions. You may choose to provide us with information when you communicate with us (e.g. via email, phone, or chat for support or to inquire about our services), including when you fill out an online form, respond to surveys, provide feedback, post comments to our website, participate in promotions, or submit information through our services.
-
-### 1.2. Information collected when you use our services
-* Usage information. We collect information about how you interact with our services, how much bandwidth you use, and when and for how long you use our services.
-* Device information. We collect information from and about the device you use to access our services. For example, we may collect device identifiers, browser types, device types and settings, operating system versions, mobile, wireless, and other network information (such as internet service provider name, carrier name and signal strength), and application version numbers.
-* Diagnostic information. We may collect information about the nature of the requests that you make to our servers (such as what is being requested, information about the device and app used to make the request, timestamps, and referring URLs). However, our VPN products do not log any information that associates your identity with your VPN browsing activity. We do not maintain any records that show what you were browsing or accessed through a VPN connection. 
-* Location information. Unless otherwise expressly stated, we do not collect your location information based on your device’s GPS or other device sensor data. However, we may collect your approximate location by calculating an imprecise latitude and longitude based on your IP address to provide you with better service (e.g. to connect you to the nearest and fastest VPN server).
+## 1. Privacy policy contents
+This Privacy Policy describes how we handle and protect your personal data and the choices available to you regarding collection, process, access, and how to update, correct and delete your personal data. Additional information on our personal data practices may be provided in product settings, contractual terms, or notices provided prior to or at the time of data collection
 
 <br>
 
-## 2. How do we use your information?
-We use the information we collect for various purposes described below.
-* To provide, maintain, troubleshoot, and support our services. We use your information for this purpose on the basis that it is required to fulfill our contractual obligations to you. Examples: using information about how much bandwidth you use and how long you use our services in order to provide the services in accordance with a plan to which you have subscribed; using threat and device information to determine whether certain items pose a potential security threat; and using usage information to troubleshoot a problem you report with our services and to ensure the proper functioning of our services.
-* For billing and payment purposes. We use your information in order to perform billing administration activities and process payments, which are required to fulfill our contractual obligations.
-* To communicate with users and prospective users. We use your information to communicate with you, including by responding to your requests, and sending you information and updates about our services. We may do this in order to fulfill our contract with you, because you consented to the communication, or because we have a legitimate interest in providing you with information about our services.
-* To improve our services. We want to offer you the best services and user experiences we can, so we have a legitimate interest in continually improving and optimizing our services. To do so, we use your information to understand how users interact with our services. Examples: we analyze certain usage, device, and diagnostic information to understand aggregated usage trends and user engagement with our services (and, for example, invest in technical infrastructure to better serve regions with increasing user demand); we may use device and threat information to conduct spam, threat, and other scientific research to improve our threat detection capabilities; we review customer feedback to understand what we could be doing better.
-* To develop new services. We have a legitimate interest in using your information to plan for and develop new services. For example, we may use customer feedback to understand what new services users may want.
-* To market and advertise our services. We may use your information to provide, measure, personalize, and enhance our advertising and marketing based on our legitimate interest in offering you services that may be of interest. Examples: we may use information such as who or what referred you to our services to understand how effective our advertising is; we may use information to administer promotional activities such as sweepstakes and referral programs. Note that our VPN products do not use your VPN browsing activity for these purposes and we do not maintain any records that show what you were browsing or accessing through a VPN connection.
-* To prevent harm or liability. We may use information for security purposes (such as to investigate security issues or to monitor and prevent fraud) and to prevent abuse. We may do this to comply with our legal obligations, to protect an individual’s vital interests, or because we have a legitimate interest in preventing harm or liability to our users. For example, we may use account, usage, and device information to determine if an entity is engaging in abusive or unauthorized activity in connection with our services.
-* For legal compliance. We internally use your information as required by applicable law, legal process, or regulation. To learn about our practices regarding sharing your information with third parties for legal compliance purposes, see Section 3.1 below. We also use your information to enforce our legal rights and resolve disputes.
+## 2. What data do we collect?
+
+
+### 2.1 User Activity Data
+While a user's device is tunneled through VPN, we collect some information about how they're using it. We record what protocol VPN used to connect, how long the device was connected, how many bytes were transferred during the session, and what city, country, and ISP the connection came from. For some domains (but very few, and only popular ones) or server IP addresses (e.g., known malware servers) that are visited, we also record how many bytes were transferred to it. (But never full URLs or anything more sensitive. And only domains of general interest, not all domains.)
+
+Geographical location and ISP info are derived from user IP addresses, which are then immediately discarded.
+
+We consider user activity data the most sensitive category of data. We never, ever share this data with third parties. We keep user activity data for at most 60 days, and then we aggregate it and delete it. Backups of that data are kept for a reasonable amount of time.
+
+### 2.2 Aggregated Data
+Data is “aggregated” by taking a lot of sensitive user activity data and combining it together to form coarse statistical data that is no longer specific to a user. After aggregation, the user activity data is deleted.
+
+Aggregated data is much less sensitive than activity data, but we still treat it as potentially sensitive and do not share it in this form.
+
+### 2.3 Shareable Aggregated Data
+When sharing aggregated data with third parties, we make sure that the data could not be combined with other sources to reveal user identities. For example, we do not share data for countries that only have a few VPN users in a day. We make sure that the data is anonymized.
+
+We also never share domain-related information with third parties.
 
 <br>
 
-## 3. Who do we share your information with and why?
+## 3. Children’s privacy
+You represent and warrant that you are at least 13 years of age and of legal competence to use our Service. If you are under 18, please be sure to read the Agreement with your parents or legal guardians. We do not use the Service to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide Personal Data through our services. If you become aware or have any reason to believe that a child under the age of 13 has shared any information with us, please contact us and we take reasonable steps to ensure that such information is deleted from our files.
 
-### 3.1. In General
-We may disclose your information in the following circumstances:
-* In accordance with your instructions or consent. For example, some services may allow you to register an account using a third party account (such as a Google or Microsoft account). If you choose to do so, we will share information with the third party account provider.
-* To your business organization (for our business services). If a business customer is providing you with access to our services through a business account, others in that organization may be able to see and manage your account and the information associated with it (such as an administrator).
-* For collaborating with others. Some services may provide ways for different users to interact or collaborate with each other. Your information will be shared in connection with those activities if you choose to engage in them.
-
-### 3.2. Free Products Only
-Displaying Third Party Ads. We do not display third party ads in our paid products. With respect to our free mobile apps and other free products, we may serve third party ads to users in certain regions. Although the money we make from displaying these ads offsets only part of the costs of making these apps and services available for free, we provide free apps because we believe it’s important that everyone has the opportunity, regardless of their situation, to have secure and private access to the internet.
-The ads we display in our services are supplied by Google, a third party advertising network (“Google Ads”). To display these ads in our apps, we integrate into them a software development kit (SDK), which consists of software code provided by the ad network.
-We do not provide Google Ads with any personal data about you, except for an approximate city-level latitude and longitude which lets them show ads which are more relevant for your approximate geographic location. However, Google Ads may collect information through their SDKs, such as your mobile advertising identifier, IP address, and device information, for the purpose of serving you with “personalized” ads (ads that they think are more relevant to you) and measuring your response to those ads. If you are using a VPN connection, your IP address is hidden from ad networks and replaced with the IP address of our VPN servers. Because we do not provide ad networks with personal data about you (apart from city-level location), Google Ads personalizes ads based on information that they collect from you and that they already have about you – not based on information we share with them.
-
-Google collects this information according to the Google advertising privacy notice. Where an AdChoices logo appears on an ad, you can click it to learn more about the ad network that provided the ad, its privacy policy, and your choices regarding opting out from any personalized advertising. If you opt out from personalized advertising, you may still see non-personalized ads.
-While we request you not to use ad blockers to prevent the display of third party ads because that is how we support our free services, our services are able to continue functioning if you do use ad blockers.
 
 <br>
 
-## 4. Tracking Technologies & Cookies
+## 4. Why do we collect your personal data?
+We collect the Personal Data for the purpose of:
 
-### 4.1. About Tracking Technologies
-We uses various technologies in our services to help us collect information. For convenience, we refer to these as “tracking technologies,” although they are not always used to track individuals and the information collected is in a non-identifiable form that does not reference any personal data. Tracking technologies include:
+1. Service improvement and personalization of the user experience
+2. The proper administration of our Website and business
+3. The performance of the contract between you and us and/or taking steps, at you request, to enter into such a contract
+4. Scientific research, fraud detection/prevention and improvement of the Service
+5. To notify you of our new services or changes to our existing Services
+6. To send you technical or service-related communications
+7. To verify identity, assist with identification of users, and to determine appropriate services;
+8. To communicate with you and send you important notices or personalized messages, such as communications about purchases and changes to our terms, conditions, and policies
+9. To monitor, evaluate and analyze trends, data, transactions, usage and activities in connection with our products and services
 
-* Cookies
-Cookies are small portions of text that are stored on the device you use to access our services. Cookies enable us (or third parties that we allow to set cookies on your device) to recognize repeat users. Cookies may expire after a period of time, depending on what they are used for.
-
-
-* Pixel Tags / Page Tags / Web Beacons / Tracking Links
-These are small, hidden images and blocks of code placed in web pages, ads, and our emails that allow us to determine if you perform a specific action. When you access a page, ad, or email, or click a link, these items let us know that you have accessed that page, opened an email, or clicked a link.
-
-* SDKs
-SDKs or software development kits are software code provided by our business partners that let our software interact with the services those partners provide. For example, in our free mobile apps, we may use an SDK to enable our app to serve ads from an advertising network. Sometimes these interactions will involve that business partner collecting some information from the device on which the software is run.
-
-### 4.2. Why we use Cookies
-We use cookies:
-* To provide our services. Some cookies are essential for the proper operation of our services. For example, cookies allow us to authenticate who you are and whether you’re authorized to access a resource.
-* To store your preferences. Cookies can store your preferences, such as language preferences or whether to pre-fill your username on sign in forms. We may also use them to optimize the content that we show to you.
-* For analytics. Cookies are used to inform us how users interact with our services so we can, as a legitimate interest, improve how they work (such as what screens or webpages you access, and whether our advertising is effective).
-* For security. Cookies can enable us and our payment processors to detect certain kinds of fraud.
-* For advertising-related purposes. We advertise our services online with the help of third parties who show ads and marketing about us on sites around the internet.
-
-### 4.3. Third Parties
-We may allow our business partners to place certain tracking technologies in our services. These partners use these technologies for the following purposes:
-* To provide our services. Some business partners who help us to provide our services may use these technologies to support those efforts.
-* For Analytics. To help us understand how you use our services.
-* For Marketing. To help us market and advertise our services to you, including on third party websites. Cookies are used in connection with this to measure the performance of our advertising, attribute actions you take with our ads with actions you take on our services, deliver ad retargeting (serving ads based on your past interactions with our services), and target ads at similar audiences.
-* To Serve Ads. This is relevant to users of our free products only. Ad networks may use these technologies to display ads which they think will be more relevant to you. For more information, please see the “Displaying Third Party Ads” section above.
 
 <br>
 
-## 5. Data Retention
-Fast VPN generally retains your personal data for as long as is needed to provide the services to you, or for as long as you have an account with us. We may also retain personal data if required by law, or for our legitimate interests, such as abuse detection and prevention, and defending ourselves from legal claims. Residual copies of personal data may be stored in backup systems for a limited period as a security measure to protect against data loss.
+## 5. Sharing your personal data
+We may share your data with other affiliate companies in or outside Europe. We may also share your data with third parties, to help manage our business and deliver services. These third parties may from time to time need to have access to your personal data. These third parties may include:
+
+* Service providers or partners, who perform functions on our behalf such as fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer services or other activities as necessary part of the functioning in our product or service. Such third parties may handle your information on behalf of us. If you don’t wish to allow their access and processing, please contact us to make your notice. If you share your data through one of our websites or devices with a third party account such as Facebook, Google+ or Twitter, your personal data will be managed respectively by one of those third parties. Please review the third party’s privacy policy, as their data processing will not be covered by this Policy;
+* Our regulators, including regulators and law enforcement or investigation agencies in the E.U., U.S., China, and around the world;
+* Other third parties, for the purposes of detecting, preventing or otherwise addressing fraud, security or technical issues (such as cyber-attack, or other illegal or immoral acts), targeting at or related to protecting against harm to the rights, property or safety of our users or us, our affiliates, employees or the public;
+* Solicitors and other professional services firms (including our auditors).
+
+Also, if we were to sell part of our businesses or assets, as required by applicable laws or agreed with relevant parties, we would need to transfer your personal data to the purchaser in case of carrying out relevant deals such as merger, acquisition or asset transfers.
 
 <br>
 
-## 6. Your Rights
-Depending on your country of residence, you may have certain legal rights in relation to your personal data that we maintain. Subject to exceptions and limitations provided by applicable law, these may include the right to:
-* access and receive a copy of your personal data;
-* correct your personal data;
-* restrict the processing of your personal data;
-* object at any time to the processing of your personal data;
-* have your personal data erased;
-* data portability;
-* withdraw any consent you previously gave to the processing of your data (such as opting out to marketing communications);
-* lodge a complaint with a data protection authority;
-* request that we provide you with the categories of personal data we collect, disclose or sell about you; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal data; and the categories of third parties with whom we share personal data. This information may also be provided in this Privacy Policy.
-Please note your rights and choices vary depending upon your location, and some information may be exempt from certain requests under applicable law.
+## 6. How long do we keep your personal data?
+We will retain your personal data for as long as is reasonably necessary. In some circumstances we may retain your personal data for longer periods of time, for example where we are required to do so to meet legal, regulatory, tax or accounting requirements.
 
-You may be able to exercise some of these rights by using the settings and tools provided in our services. For example, you may be able to update your user account details via the relevant account settings screen of our apps. You may also be able to opt out from receiving marketing communications from us by clicking an “opt out” or “unsubscribe” link in such communications.
-
-Otherwise, if you wish to exercise any of these rights, you may contact us using the details in the “Contact Us” section below. As permitted by law, we may ask you to verify your identity before taking further action on your request.
+In specific circumstances we may also retain your personal data for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a possibility of legal action relating to your personal data or dealings. Where your personal data is no longer required we will ensure it is either securely deleted or stored in a way which means it will no longer be used by the business.
 
 <br>
 
-## 7. Children’s privacy
-Unless otherwise specified, our websites, products and/or services are not directed at minors (as defined by and in accordance with applicable law). You may add the protection of certain of our Services to minors in your household, but we only process that personal data at your direction and in order to provide those specified Services.
+## 7. What are your rights?
+Your principal rights under data protection law in relation to your Persona Data are:
 
-Our Service does not address anyone under the age of 13 ("Children").
+1. The right to access and information which is provided to you through your account;
+2. The right to rectification;
+3. The right to erasure;
+4. The right to restrict processing;
+5. The right to object to processing;
+6. The right to data portability;
+7. The right to complain to a supervisory authority; and
+8. The right to withdraw consent.
 
-We do not log information from anyone under the age of 13 intentionally as the Service is not direct to anyone under the age of 13. DO NOT USE the Service if you are not of legal age. If we have found any personal data of a child under 13, we will delete it. If you believe we might have any information like that, please 
-email us at:
-
-<p class="p6"><span class="s5">Email address: <a href="mailto:liambeldenuk@gmail.com"><span class="s6">liambeldenuk@gmail.com</span></a></span></p>
+We provide you with the ability to exercise certain choices and controls in connection with our treatment of your Personal Data. Depending on your relationship with us, these choices and controls may include, access to the Personal Data collected about you that we hold; correcting, updating or deleting the information associated with you that we hold; and in the event, you wish to opt out from the data collection or you are not able to exerciser your rights through your account please contact us. In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply.
 
 <br>
 
-## 8. Privacy Policy Updates
-We may update this Privacy Policy from time to time in accordance with this section for reasons such as changes in laws, industry standards, and business practices. We will post updates to this page and update the “Last updated” date above. If we make updates that materially alter your privacy rights, we will also provide you with advance notice, such as via email or through the services. If you disagree with such an update to this policy, you may cancel your services account. If you do not cancel your account before the date the update becomes effective, your continued use of our services will be subject to the updated Privacy Policy.
+## 8. How we protect your personal data?
+We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-If you have any issue arising from this Policy, including requests to exercise data subject rights, you can contact us as described below:
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-<p class="p6"><span class="s5">Email address: <a href="mailto:liambeldenuk@gmail.com"><span class="s6">liambeldenuk@gmail.com</span></a></span></p>
+After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers.
 
-If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
+<br>
 
-## APPENDIX – COOKIE POLICY
-1. We or our third party partners may collect and use your information via tracking technology such as Cookies, which information may be stored as log information.
-2. We use such technologies to provide more tailored services and user experiences, and for purposes such as remembering your account identity or analyzing your account’s security; analyzing your usage of our product and service; advertisement optimization (helping us to provide you with more targeted advertisements instead of general advertisements based on your information). We may also process and summarize the non-personal data collected via tracking technology and provide the same to advertisers or other partners to be used to analyze how users use our services and for advertisement purpose.
-3. There may be tracking technology placed by advertisers or other partners in our products and service. Such tracking technology may collect the non-person information related to you for the purpose of analyzing how users use the services and sending to you the advertisements you might find interest in, or evaluating the effects of the advertisements. Collection and use of such information via third party tracking technology will not be subject to our Privacy Policy, but will be subject to third-party privacy policies applicable to the users, and we will not be liable for the third-party Cookies or web beacon.
-4. You may use browser and personal device settings to refuse or manage tracking technology. However, for technical reasons beyond our control, this cannot be guaranteed. For example, if you reset your browser, delete your cookies or access to our website or applications from another browser or device, your cookie settings may be lost.
-5. You shall be aware that when ceasing to use Cookie or other tracking technology, you may not be able to enjoy the best service experiences, or parts of our product or service may no longer function correctly (please contact us in case of any such problems). Furthermore, you mays still receive the same amount of commercial information such as advertisements which will have lower relevancy to you.
+## 9. Contact and complaints
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+<p class="p6"><span class="s5">Email address: <a href="mailto:johnsonbercow@gmail.com"><span class="s6">johnsonbercow@gmail.com</span></a></span></p>
