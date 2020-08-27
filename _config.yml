@@ -1,0 +1,129 @@
+#page title
+page_title                                : FastVPN                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.marlin.vpn.secure.free        # Enter Google Play Store URL.
+presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : FastVPN                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Fast VPN is a super fast VPN providing totally free unlimited VPN proxy service. Without register, just need one tap to connect to the fastest server. You can surfing online securely and anonymously. Being a gaming VPN, Fast VPN is your best choice to play mobile games around the world and chat with your friends freely from other countries.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Marlin Apps, Inc.                                
+your_link                                 :                      
+your_city                                 :                                 
+email_address                             : liambeldenuk@gmail.com
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : FREE & Unlimited 
+    description                           : No credit card information needed. No trials offered.
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : Proxy - Visit any sites and APP
+    description                           : Bypass geo-restrictions, internet filters and censorship while you’re at work or school.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Large Number of Servers
+    description                           : Lots of different locations worldwide to proxy your favorite sites.
+    fontawesome_icon_name                 : sync
+
+  - title                                 : Security - Protect Privacy and Security
+    description                           : Protect your network traffic under public WiFi hotspot browse anonymously and securely without being tracked.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Fastest - Super Fast Proxy
+    description                           : Thousands of servers being provided for you to make sure super fast speed.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : Simple - only contain a “Connect” button
+    description                           : One touch to connect to VPN proxy server and connect a better net.
+    fontawesome_icon_name                 : adjust
+    
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#000000"
+cover_overlay_transparency                : 0.2
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#5572FA"
+
+link_color                                : "#21194A"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#ffffff"
+
+feature_icons_foreground_color            : "#8088F6"
+feature_icons_background_color            : "#ffffff"
+
+social_icons_foreground_color             : "#8088F6"
+social_icons_background_color             : "#ffffff"
+
+footer_text_color                         : "#ffffff"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
