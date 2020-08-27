@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-Jan 1st, 2020
+Sep. 01, 2020
 
 # Privacy Policy
 The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
