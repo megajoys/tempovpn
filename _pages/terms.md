@@ -1,4 +1,4 @@
----
+# ---
 layout: page
 title: Terms of Services
 include_in_header: true
@@ -8,9 +8,9 @@ include_in_header: true
 April 10, 2020
 
 # Terms of Services
-This is an agreement between you and Marlin Apps, Inc. for virtual private network communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. You agree not to violate any laws of any jurisdiction you are originating from, or terminating into.
+This is an agreement between you and Better Connect, Inc. for virtual private network communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. You agree not to violate any laws of any jurisdiction you are originating from, or terminating into.
 
-Please carefully read all the terms and conditions of Marlin Apps, Inc.. When you click to install Marlin Apps, Inc. applications, you are agreeing with all the terms and conditions of the service. And if you don't agree,you can cancel the installation and you must destroy,return or delete all copies of Marlin Apps, Inc. applications in your possession.
+Please carefully read all the terms and conditions of Better Connect, Inc.. When you click to install Better Connect, Inc. applications, you are agreeing with all the terms and conditions of the service. And if you don't agree,you can cancel the installation and you must destroy,return or delete all copies of Better Connect, Inc. applications in your possession.
 
 You agree not to use the system for sending spam, port scanning, scanning for open proxies or open relays, sending opt-in email, unsolicited email or any type or version of email sent in large quantities even if the email is ultimately sent off of another server. You agree not to launch any pop-ups from our service. You agree not to attack in any way shape or form any other computer or network while on our service.
 
@@ -23,7 +23,7 @@ We do not put any cap on bandwidth or data usage per user however the use of ser
 
 <br>
 
-## Marlin Apps, Inc. DMCA Policy
-Marlin Apps, Inc. is a service provider of transitory digital network communications under the Digital Millennium Copyright Act ("DMCA") 17 U.S.C. p. 512(a). Accordingly, it is Marlin Apps, Inc.'s policy to promptly terminate without notice the accounts of those determined by Marlin Apps, Inc. to be repeat infringers, where a repeat infringer is an end user of the Marlin Apps, Inc. Services who has been notified by Marlin Apps, Inc. of infringing transmissions activities more than twice ("Repeat Infringer Policy"). Because of the ephemeral nature of transmissions imitated at the direction of persons using the Marlin Apps, Inc. Service, it is generally not possible for Marlin Apps, Inc. to take-down content from its system, but it will use all reasonable efforts to identify the offending persons in order to enforce its Repeat Infringer Policy.
+## Better Connect, Inc. DMCA Policy
+Better Connect, Inc. is a service provider of transitory digital network communications under the Digital Millennium Copyright Act ("DMCA") 17 U.S.C. p. 512(a). Accordingly, it is Better Connect, Inc.'s policy to promptly terminate without notice the accounts of those determined by Better Connect, Inc. to be repeat infringers, where a repeat infringer is an end user of the Better Connect, Inc. Services who has been notified by Better Connect, Inc. of infringing transmissions activities more than twice ("Repeat Infringer Policy"). Because of the ephemeral nature of transmissions imitated at the direction of persons using the Better Connect, Inc. Service, it is generally not possible for Better Connect, Inc. to take-down content from its system, but it will use all reasonable efforts to identify the offending persons in order to enforce its Repeat Infringer Policy.
 
 Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
