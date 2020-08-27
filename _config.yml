@@ -1,28 +1,28 @@
 #page title
-page_title                                : FastVPN                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Tempo VPN                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.marlin.vpn.secure.free        # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.free.vpn.fast.speed.hotspot        # Enter Google Play Store URL.
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : FastVPN                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Tempo VPN                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Fast VPN is a super fast VPN providing totally free unlimited VPN proxy service. Without register, just need one tap to connect to the fastest server. You can surfing online securely and anonymously. Being a gaming VPN, Fast VPN is your best choice to play mobile games around the world and chat with your friends freely from other countries.
+app_description                           : Free VPN – Fast Secure VPN, Bypass the firewalls as school Free VPN proxy for school wifi and school computer. Unblock websites with free super VPN proxy server. It can also unblock video not available in your country.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Marlin Apps, Inc.                                
+your_name                                 : Better Connect                               
 your_link                                 :                      
 your_city                                 :                                 
-email_address                             : liambeldenuk@gmail.com
+email_address                             : megajoys929@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -34,30 +34,42 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : FREE & Unlimited 
-    description                           : No credit card information needed. No trials offered.
+  - title                                 : Free and Unlimited 
+    description                           : No credit card required, no in-app purchase, permanent free.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Proxy - Visit any sites and APP
-    description                           : Bypass geo-restrictions, internet filters and censorship while you’re at work or school.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Large Number of Servers
-    description                           : Lots of different locations worldwide to proxy your favorite sites.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Security - Protect Privacy and Security
-    description                           : Protect your network traffic under public WiFi hotspot browse anonymously and securely without being tracked.
+  - title                                 : Multiple Network Types
+    description                           : Chameleon VPN works with 5G, 4G, 3G, WiFi and all mobile data carriers.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Fastest - Super Fast Proxy
-    description                           : Thousands of servers being provided for you to make sure super fast speed.
+  - title                                 : Streaming Support
+    description                           : Unblock geo-restricted websites and gain access to highly anticipated TV shows. 
+    fontawesome_icon_name                 : play-circle
+
+  - title                                 : Large Number of Servers
+    description                           : Covered more than 20 different regions and 5000+ proxy servers of the world.
+    fontawesome_icon_name                 : sync
+
+  - title                                 : Easy to Use
+    description                           : Just one-click to connect and get whatever you want.
+    fontawesome_icon_name                 : adjust
+  
+  - title                                 : Surf Anonymously
+    description                           : Anonymous no log, no DNS leak, protect privacy.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Super Fast Speed Proxys
+    description                           : Connect to the fastest and most recent VPN proxy server.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Simple - only contain a “Connect” button
-    description                           : One touch to connect to VPN proxy server and connect a better net.
-    fontawesome_icon_name                 : adjust
-    
+  - title                                 : Constantly Improving
+    description                           : We are committed to continue to optimize free VPN proxy services for users.
+    fontawesome_icon_name                 : link
+
+  - title                                 : Simple process
+    description                           : No registration required, no login or password required.
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
@@ -71,13 +83,13 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
-cover_overlay_transparency                : 0.2
+cover_overlay_transparency                : 0.7
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#5572FA"
+body_background_color                     : "#080D1B"
 
-link_color                                : "#21194A"
+link_color                                : "#C884C5"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -86,11 +98,11 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#ffffff"
 
-feature_icons_foreground_color            : "#8088F6"
-feature_icons_background_color            : "#ffffff"
+feature_icons_foreground_color            : "#C884C5"
+feature_icons_background_color            : "#FFEAFE"
 
 social_icons_foreground_color             : "#8088F6"
-social_icons_background_color             : "#ffffff"
+social_icons_background_color             : "#E7EBFE"
 
 footer_text_color                         : "#ffffff"
 
